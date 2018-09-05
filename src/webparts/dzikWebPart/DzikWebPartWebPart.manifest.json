@@ -17,7 +17,9 @@
     "description": { "default": "Dzik Tooltip" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "This is editable text"
+      "description": "This is editable text",
+      "otherDescription": "This is unstyled text",
+      "dzikSlider":3
     }
   }]
 }
