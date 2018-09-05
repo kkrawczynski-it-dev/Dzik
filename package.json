@@ -12,11 +12,14 @@
   },
   "dependencies": {
     "@microsoft/sp-core-library": "1.5.1",
-    "@microsoft/sp-webpart-base": "1.5.1",
     "@microsoft/sp-lodash-subset": "1.5.1",
     "@microsoft/sp-office-ui-fabric-core": "1.5.1",
+    "@microsoft/sp-webpart-base": "1.5.1",
+    "@types/es6-promise": "0.0.33",
     "@types/webpack-env": "1.13.1",
-    "@types/es6-promise": "0.0.33"
+    "itdevcontexts": "0.0.2026",
+    "itdevcontrols": "^1.0.2056",
+    "itdevtransports": "0.0.2091"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "1.5.1",
