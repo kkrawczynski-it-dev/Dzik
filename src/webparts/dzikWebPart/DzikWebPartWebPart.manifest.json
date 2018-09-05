@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "391d3c28-0327-44c7-9803-120b2b76a34c",
+  "alias": "DzikWebPartWebPart",
+  "componentType": "WebPart",
+
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Dzik Group" },
+    "title": { "default": "Dzik Webpart" },
+    "description": { "default": "Dzik Tooltip" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "This is editable text"
+    }
+  }]
+}

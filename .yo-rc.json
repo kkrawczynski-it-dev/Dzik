@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "dzik",
+    "libraryId": "82e7b62b-892f-43a3-881c-dff3b1b3180e",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
