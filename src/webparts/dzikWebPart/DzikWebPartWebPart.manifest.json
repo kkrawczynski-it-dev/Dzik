@@ -18,7 +18,6 @@
     "officeFabricIconFontName": "Page",
     "properties": {
       "description": "This is editable text",
-      "otherDescription": "This is unstyled text",
       "dzikSlider":3
     }
   }]
